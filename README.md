@@ -1,0 +1,4 @@
+- hello, I’m @Crabulom a brazillian junior starter in programing languages;
+- 👥 I’m interested in junior opportunities C#;
+- 📘 I’m currently focusing to learning C#;
+- 📨 How to reach me. Send me a email in "leonardoduartejs@gmail.com";
