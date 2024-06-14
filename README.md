@@ -1,4 +1,4 @@
 - hello, I’m @Crabulom a brazillian junior starter in programing languages;
 - 👥 I’m interested in junior opportunities C#;
-- 📘 I’m currently focusing to learning C#;
-- 📨 How to reach me. Send me a email in "leonardoduartejs@gmail.com";
+- 📘 I’m currently focusing to learning C# and finnishing my university in analysis and systems development;
+- 📨 if you have interested in contacting. Send me a email in "leonardoduartejs@gmail.com";
